@@ -1,2 +1,74 @@
-# 3DPrinting
+
+# My 3D Printing Projects
+
+Welcome to my 3D printing project repository! This is a curated space to showcase my 3D printing journey, from default prints to custom designs. Whether you're a beginner or experienced in 3D printing, you'll find something valuable here.
+
 So I got myself a 3D Printer finally, this is me trying to track what I am printing, and if that benefits others - enjoy.
+
+## Table of Contents
+1. [3D Printing Setup](#3d-printing-setup)
+2. [Categories](#categories)
+3. [Future Projects and Hardware](#future-projects-and-hardware)
+4. [Tips and Tricks](#tips-and-tricks)
+5. [Contributing](#contributing)
+
+---
+
+## 3D Printing Setup
+
+### Hardware
+- **3D Printer**: Bambu Lab A1
+- **AMS Lite System**: For multi-material prints.
+- **Accessories**: Filament spools and tools stored on a dedicated table.
+- **Monitoring Devices**: 
+  - **Phone and iPad**: Monitor and control prints via the printer's camera and app.
+  - **MacBook Pro (2024)**: For project organization and slicing.
+  - **Mac Mini (2024)**: For custom 3D designs using Tinkercad, Fusion 360, and Blender.
+
+### Software
+- **Bambu Lab App**: Slice and manage prints.
+- **Design Tools**: Tinkercad, Fusion 360, Blender.
+
+---
+
+## Categories
+
+Explore projects organized into the following categories:
+1. **A1 Mods and Essentials**: Upgrades and modifications for the Bambu Lab A1.
+2. **Tools and Accessories**: Functional prints for everyday use.
+3. **Daily Items**: Practical prints for daily convenience.
+4. **Functional Stuff**: Problem-solving designs.
+
+---
+
+## Future Projects and Hardware
+
+Explore my ongoing plans and wishlist:
+- **Future Projects**: Ideas and designs to come.
+- **Hardware Wishlist**: Tools and upgrades planned for the setup.
+
+---
+
+## Tips and Tricks
+
+Check out handy insights in the `tips-and-tricks/` folder, including:
+- Optimizing prints with AMS Lite.
+- Efficient filament storage.
+- Using Fusion 360 for versatile designs.
+
+---
+
+## Contributing
+
+Feel free to contribute by sharing prints, improving designs, or suggesting ideas!
+1. Fork this repository.
+2. Make changes in a new branch.
+3. Submit a pull request.
+
+Happy printing!
+
+## Version
+
+Draft with the intention of 'how the heck am i going to do this github project for 3d printing'
+
+### Version 0.0.1, build 001, December 4th, 2024.
