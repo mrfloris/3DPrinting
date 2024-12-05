@@ -65,10 +65,32 @@ Feel free to contribute by sharing prints, improving designs, or suggesting idea
 2. Make changes in a new branch.
 3. Submit a pull request.
 
-Happy printing!
+Happy printing! And if you have any issues, feel free to open a new issue ticket or contact me on Discord
 
-## Version
+---
 
-Draft with the intention of 'how the heck am i going to do this github project for 3d printing'
+## Social
 
-### Version 0.0.1, build 001, December 4th, 2024.
+I am @Floris on Discord.gg/floris, for 3D printing please use the #arts-hobbies channel.
+
+---
+
+## Todo
+
+- Refine the GitHub documents and make sure I thought of everything (I won't probably)
+- Merge notes.app list with GitHub
+- Link company names and stuff to the official sites
+
+---
+
+## Version & Changelog
+
+0.0.x is the "_Draft with the intention of 'how the heck am i going to do this github project for 3d printing'_"  version.
+
+- Version 0.0.1, build 003, December 5th, 2024.
+
+### Changelog
+- 0.0.1 build 000 - Figuring out what I want with this project (dec 3rd, 2024)
+- 0.0.1 build 001 - Getting it on my local machines and starting prints (dec 4th, 2024)
+- 0.0.1 build 003 - Syncing it to GitHub and figuring out the content (dec 5th, 2024)
+- 0.0.2 build 004 - Merging Notes.app where I track what I've printed with GitHub (unknown date)
