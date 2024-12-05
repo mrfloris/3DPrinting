@@ -14,3 +14,6 @@
 > yakirarage > ye there is a sticker on the side that kind of gives a estimate
 what you can also do if weigh a empty spool then weigh the spool you have left and calculate the difference
 i got a empty spool i can quickly weigh for you if you want that info
+
+- testing things 
+> https://makerworld.com/en/collections/3493692
