@@ -1,20 +1,24 @@
-
 # My 3D Printing Projects
 
 Welcome to my 3D printing project repository! This is a curated space to showcase my 3D printing journey, from default prints to custom designs. Whether you're a beginner or experienced in 3D printing, you'll find something valuable here.
 
-So I got myself a 3D Printer finally, this is me trying to track what I am printing, and if that benefits others - enjoy.
-
-## Table of Contents
-1. [3D Printing Setup](#3d-printing-setup)
-2. [Prints](#categories)
-3. [Filaments](#filaments)
-4. [Tips and Tricks](#tips-and-tricks)
-5. [Contributing](#contributing)
+So I got myself a 3D Printer finally, and this is me tracking what I am printing. If it benefits others—enjoy!
 
 ---
 
-## 3D Printing Setup
+## Table of Contents
+1. [3D Printing Setup](#3d-printing-setup)
+2. [Prints](#prints)
+3. [Filaments](#filaments)
+4. [Tips and Tricks](#tips-and-tricks)
+5. [Contributing](#contributing)
+6. [Social](#social)
+7. [Todo](#todo)
+8. [Version & Changelog](#version--changelog)
+
+---
+
+## [3D Printing Setup](setup/)
 
 ### Hardware
 - **3D Printer**: Bambu Lab A1
@@ -31,7 +35,7 @@ So I got myself a 3D Printer finally, this is me trying to track what I am print
 
 ---
 
-## Prints
+## [Prints](prints/)
 
 Explore projects organized into the following categories:
 1. **A1 Mods and Essentials**: Upgrades and modifications for the Bambu Lab A1.
@@ -41,65 +45,67 @@ Explore projects organized into the following categories:
 
 ### Future Projects and Hardware
 
-Explore my ongoing plans and wishlist:
-- **Future Projects**: Ideas and designs to come.
-- **Hardware Wishlist**: Tools and upgrades planned for the setup.
+Dive into my plans and wishlist:
+- **Future Projects**: Ideas and designs in progress.
+- **Hardware Wishlist**: Tools and upgrades I’m considering for the setup.
 
 ---
 
-## Filaments
-- **Tracker**: History of what I've used, am using and want to use.
-- **Pictures**: A few set-up pictures, and idea-sharing of storing/organizing filaments
+## [Filaments](filaments/)
+- **Tracker**: A history of filaments I’ve used, am using, and plan to try.
+- **Gallery**: Pictures of filament setups and creative storage solutions.
 
 ---
 
-## Tips and Tricks
+## [Tips and Tricks](tips-and-tricks/)
 
 Check out handy insights in the `tips-and-tricks/` folder, including:
-- Optimizing prints with AMS Lite.
-- Efficient filament storage.
+- Optimizing prints with the AMS Lite system.
+- Storing and organizing filament efficiently.
 - Using Fusion 360 for versatile designs.
 
 ---
 
-## Contributing
+## [Contributing](#contributing)
 
 Feel free to contribute by sharing prints, improving designs, or suggesting ideas!
 1. Fork this repository.
 2. Make changes in a new branch.
 3. Submit a pull request.
 
-Happy printing! And if you have any issues, feel free to open a new issue ticket or contact me on Discord
+Happy printing! If you have any issues, feel free to open a ticket or contact me on Discord.
 
 ---
 
-## Social
+## [Social](#social)
 
-I am @Floris on Discord.gg/floris, for 3D printing please use the #arts-hobbies channel.
-
----
-
-## Todo
-
-- Refine the GitHub documents and make sure I thought of everything (I won't probably)
-- Merge notes.app list with GitHub
-- Link company names and stuff to the official sites
+I’m **@Floris** on [Discord.gg/floris](https://discord.gg/floris). For 3D printing discussions, join the **#arts-hobbies** channel.
 
 ---
 
-## Version & Changelog
+## [Todo](#todo)
 
-0.0.x is the "_Draft with the intention of 'how the heck am i going to do this github project for 3d printing'_"  version.
+- Refine GitHub documents and ensure I’ve covered everything.
+- Merge **Notes.app** lists with GitHub content.
+- Link company names and tools to official websites.
 
-- Version 0.0.1, build 006, December 6th, 2024.
+---
+
+## [Version & Changelog](#version--changelog)
+
+**0.0.x**: "_Draft with the intention of 'how the heck am I going to do this GitHub project for 3D printing'_" version.
+
+### Current Version
+- **Version 0.0.1**, build 007, December 6th, 2024.
 
 ### Changelog
-- 0.0.1 build 007 - shuffling the main readme page about so i can link to sub folders (dec 6th, 2024)
-- 0.0.1 build 006 - Updated the todo section with a readme page, and renamed the directory to prints (dec 6th, 2024)
-- 0.0.1 build 005 - Added another tip, and a page for tracking filaments (dec 6th, 2024)
-- 0.0.1 build 004 - thinking about some tricks and tips (dec 5th, 2024)
-- 0.0.1 build 003 - Syncing it to GitHub and figuring out the content (dec 5th, 2024)
-- 0.0.1 build 001 - Getting it on my local machines and starting prints (dec 4th, 2024)
-- 0.0.1 build 000 - Figuring out what I want with this project (dec 3rd, 2024)
+- **0.0.1 build 007**: Shuffled the main README page to link to subfolders (December 6th, 2024).
+- **0.0.1 build 006**: Updated the TODO section and renamed the directory to `prints/` (December 6th, 2024).
+- **0.0.1 build 005**: Added another tip and a page for tracking filaments (December 6th, 2024).
+- **0.0.1 build 004**: Added ideas for tips and tricks (December 5th, 2024).
+- **0.0.1 build 003**: Synced to GitHub and organized content (December 5th, 2024).
+- **0.0.1 build 001**: Started tracking prints locally (December 4th, 2024).
+- **0.0.1 build 000**: Planned project structure (December 3rd, 2024).
 
-- 0.0.2 build 00x - Merging Notes.app where I track what I've printed with GitHub (unknown date)
+### Upcoming
+- **0.0.2 build 00x**: Merge Notes.app with GitHub repository (TBD).
