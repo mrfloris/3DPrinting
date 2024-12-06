@@ -29,6 +29,10 @@ So I got myself a 3D Printer finally, this is me trying to track what I am print
 - **Bambu Lab App**: Slice and manage prints.
 - **Design Tools**: Tinkercad, Fusion 360, Blender.
 
+### Filaments
+- **Tracker**: History of what I've used, am using and want to use.
+- **Pictures**: A few set-up pictures, and idea-sharing of storing/organizing filaments
+
 ---
 
 ## Categories
@@ -87,13 +91,14 @@ I am @Floris on Discord.gg/floris, for 3D printing please use the #arts-hobbies 
 
 0.0.x is the "_Draft with the intention of 'how the heck am i going to do this github project for 3d printing'_"  version.
 
-- Version 0.0.1, build 005, December 6th, 2024.
+- Version 0.0.1, build 006, December 6th, 2024.
 
 ### Changelog
-- 0.0.1 build 000 - Figuring out what I want with this project (dec 3rd, 2024)
-- 0.0.1 build 001 - Getting it on my local machines and starting prints (dec 4th, 2024)
-- 0.0.1 build 003 - Syncing it to GitHub and figuring out the content (dec 5th, 2024)
-- 0.0.1 build 004 - thinking about some tricks and tips (dec 5th, 2024)
+- 0.0.1 build 006 - Updated the todo section with a readme page, and renamed the directory to prints (dec 6th, 2024)
 - 0.0.1 build 005 - Added another tip, and a page for tracking filaments (dec 6th, 2024)
+- 0.0.1 build 004 - thinking about some tricks and tips (dec 5th, 2024)
+- 0.0.1 build 003 - Syncing it to GitHub and figuring out the content (dec 5th, 2024)
+- 0.0.1 build 001 - Getting it on my local machines and starting prints (dec 4th, 2024)
+- 0.0.1 build 000 - Figuring out what I want with this project (dec 3rd, 2024)
 
-- 0.0.2 build 006 - Merging Notes.app where I track what I've printed with GitHub (unknown date)
+- 0.0.2 build 00x - Merging Notes.app where I track what I've printed with GitHub (unknown date)
