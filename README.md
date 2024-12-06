@@ -7,8 +7,8 @@ So I got myself a 3D Printer finally, this is me trying to track what I am print
 
 ## Table of Contents
 1. [3D Printing Setup](#3d-printing-setup)
-2. [Categories](#categories)
-3. [Future Projects and Hardware](#future-projects-and-hardware)
+2. [Prints](#categories)
+3. [Filaments](#filaments)
 4. [Tips and Tricks](#tips-and-tricks)
 5. [Contributing](#contributing)
 
@@ -29,13 +29,9 @@ So I got myself a 3D Printer finally, this is me trying to track what I am print
 - **Bambu Lab App**: Slice and manage prints.
 - **Design Tools**: Tinkercad, Fusion 360, Blender.
 
-### Filaments
-- **Tracker**: History of what I've used, am using and want to use.
-- **Pictures**: A few set-up pictures, and idea-sharing of storing/organizing filaments
-
 ---
 
-## Categories
+## Prints
 
 Explore projects organized into the following categories:
 1. **A1 Mods and Essentials**: Upgrades and modifications for the Bambu Lab A1.
@@ -43,13 +39,17 @@ Explore projects organized into the following categories:
 3. **Daily Items**: Practical prints for daily convenience.
 4. **Functional Stuff**: Problem-solving designs.
 
----
-
-## Future Projects and Hardware
+### Future Projects and Hardware
 
 Explore my ongoing plans and wishlist:
 - **Future Projects**: Ideas and designs to come.
 - **Hardware Wishlist**: Tools and upgrades planned for the setup.
+
+---
+
+## Filaments
+- **Tracker**: History of what I've used, am using and want to use.
+- **Pictures**: A few set-up pictures, and idea-sharing of storing/organizing filaments
 
 ---
 
@@ -94,6 +94,7 @@ I am @Floris on Discord.gg/floris, for 3D printing please use the #arts-hobbies 
 - Version 0.0.1, build 006, December 6th, 2024.
 
 ### Changelog
+- 0.0.1 build 007 - shuffling the main readme page about so i can link to sub folders (dec 6th, 2024)
 - 0.0.1 build 006 - Updated the todo section with a readme page, and renamed the directory to prints (dec 6th, 2024)
 - 0.0.1 build 005 - Added another tip, and a page for tracking filaments (dec 6th, 2024)
 - 0.0.1 build 004 - thinking about some tricks and tips (dec 5th, 2024)
