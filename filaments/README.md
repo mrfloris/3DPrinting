@@ -1,7 +1,7 @@
 
 # Filaments
 
-On this page I wish to keep track of the filaments that I have used, am using and got my eye on. 
+On this page I wish to keep track of the filaments that I have used, am using and got my eye on. Maybe this is just fun to do, but at least I will be able to find again what I've bought, where, and how many times. We will see.
 
 Maybe I will also include some pictures about how I store them, use them, etc.
 
