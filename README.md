@@ -96,9 +96,12 @@ I’m **@Floris** on [Discord.gg/floris](https://discord.gg/floris). For 3D prin
 **0.0.x**: "_Draft with the intention of 'how the heck am I going to do this GitHub project for 3D printing'_" version.
 
 ### Current Version
-- **Version 0.0.1**, build 007, December 6th, 2024.
+- **Version 0.0.2**, build 009, December 10th, 2024.
 
 ### Changelog
+- **0.0.2 build 009**: Moved todo-printed from notes.app to github repo (December 10th, 2024).
+- **0.0.2 build 008**: Moved todo-future-prints from notes.app to github repo (December 9th, 2024).
+
 - **0.0.1 build 007**: Shuffled the main README page to link to subfolders (December 6th, 2024).
 - **0.0.1 build 006**: Updated the TODO section and renamed the directory to `prints/` (December 6th, 2024).
 - **0.0.1 build 005**: Added another tip and a page for tracking filaments (December 6th, 2024).
@@ -108,4 +111,4 @@ I’m **@Floris** on [Discord.gg/floris](https://discord.gg/floris). For 3D prin
 - **0.0.1 build 000**: Planned project structure (December 3rd, 2024).
 
 ### Upcoming
-- **0.0.2 build 00x**: Merge Notes.app with GitHub repository (TBD).
+- **0.0.3 build 00x**: expanding existing pages, making it all work (TBD).

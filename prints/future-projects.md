@@ -10,3 +10,24 @@
 - Additional AMS Lite modules for extended multi-material support.
 
 ---
+
+# TEMPORARY
+```
+Multi board
+Backpack hanger 
+Backpack carbine 
+A1 accessories
+Filament role clips
+Tube clips
+Store box on the printer
+Apple TV box on tv
+iPhone clip for tv or MacBook, as webcam
+iPhone stand
+Multi color things
+Xmas things for family
+Pill box
+Drawer dividers
+Sony a7r5 battery holder box
+shower hose to wall secure clip
+vertical toilet role holder
+```
