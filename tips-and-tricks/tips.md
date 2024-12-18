@@ -15,5 +15,8 @@
 what you can also do if weigh a empty spool then weigh the spool you have left and calculate the difference
 i got a empty spool i can quickly weigh for you if you want that info
 
-- testing things 
+- testing things / Calibration tests
 > https://makerworld.com/en/collections/3493692
+
+- dont cheap out
+> dont ruin your printer by getting underpar filament
