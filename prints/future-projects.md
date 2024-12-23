@@ -15,7 +15,6 @@
 ```
 Multi board
 Backpack hanger 
-Backpack carbine 
 A1 accessories
 Filament role clips
 Tube clips
@@ -31,4 +30,9 @@ Sony a7r5 battery holder box
 shower hose to wall secure clip
 vertical toilet role holder
 plate grip https://makerworld.com/en/models/830474#profileId-780083
+Papier verpakking snijder
+Funnel om dongen in potjes te stoppen
+Grateful plates
+Swatches for each color
+https://makerworld.com/en/models/712292?from=search#profileId-644486
 ```

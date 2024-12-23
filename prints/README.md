@@ -135,3 +135,45 @@ https://makerworld.com/en/models/865351#profileId-816495
 Custom profile, thinner walls, 10% infil, speedier print, 0.42 layer, extra draft
 ```
 First 29 were printed with Bambu Lab PLA White Matte (2x 1KG) filament at mostly default settings.
+
+The next were printed on arctic whisper pla matte
+```
+30 - Arctic winter swatch
+https://makerworld.com/en/models/712292#profileId-644486
+
+31 - Tapo c110 holder
+https://makerworld.com/en/models/565480#profileId-618570
+
+32 - Two wall mounts for philips hue play lights behind tv
+https://makerworld.com/en/models/226036#profileId-576357
+
+33 - Hot Plate handle
+https://makerworld.com/en/models/830474#profileId-780076
+
+34 - Tamper for moka pot
+https://makerworld.com/en/models/839234#profileId-836560
+
+35 - Moka pot resting station
+https://makerworld.com/en/models/712844#profileId-643244
+
+36 - Cappuccino shape thingies
+https://makerworld.com/en/models/868055#profileId-819474
+
+37 - Tv remote stand
+https://makerworld.com/en/models/415035#profileId-317122
+
+38 - Carbabiner x2
+https://makerworld.com/en/models/597649#profileId-519704
+
+39 - Double hook glass thing in bathroom
+https://makerworld.com/en/models/379481#profileId-279593
+```
+
+And then Switched to Ash Gray PLA matte
+```
+40 - Hot and cool plate holder
+https://makerworld.com/en/models/75802#profileId-80382
+
+41 - Battery organizer boxes
+https://makerworld.com/en/models/893028#profileId-850054
+```
