@@ -96,9 +96,11 @@ I’m **@Floris** on [Discord.gg/floris](https://discord.gg/floris). For 3D prin
 **0.0.x**: "_Draft with the intention of 'how the heck am I going to do this GitHub project for 3D printing'_" version.
 
 ### Current Version
-- **Version 0.0.2**, build 010, December 18th, 2024.
+- **Version 0.0.2**, build 012, December 23rd, 2024.
 
 ### Changelog
+- **0.0.2 build 012**: Moved filament text from one .md file to filaments/readme.md files. (December 23rd, 2024).
+- **0.0.2 build 011**: Updated the accessories that I've bought, and what I've printed. (December 22nd, 2024).
 - **0.0.2 build 010**: I've started to keep track of which filaments I have used (December 18th, 2024).
 - **0.0.2 build 009**: Moved todo-printed from notes.app to github repo (December 10th, 2024).
 - **0.0.2 build 008**: Moved todo-future-prints from notes.app to github repo (December 9th, 2024).
