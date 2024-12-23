@@ -145,7 +145,7 @@ In the meantime, during Black Friday, I ordered their New Year Special Bundle PL
 
 Followed by Cyber Monday Wood bundle for a tiny discount. I bought enough that if I added 2 more I'd get 15% on them (December 2024):
 - PLA Wood - Filament with spool / White Oak (13106) / 1 kg (status: still sealed, not in use) https://eu.store.bambulab.com/en-nl/products/pla-wood?variant=53441583186268
-- PLA Wood - Filament with spool / Black Walnut (13107) / 1 kg (status: still sealed, not in use) https://eu.store.bambulab.com/en-nl/products/pla-wood?variant=53441583055196
+- PLA Wood - Filament with spool / Black Walnut (13107) / 1 kg (status: being used now) https://eu.store.bambulab.com/en-nl/products/pla-wood?variant=53441583055196
 
 On Cyber Monday I also got the PLA CMYK Lithophane Bundle - Filament with spool / 4 rolls (4kg) / and Backlight Board (December 2024):
 - PLA Basic Cyan #0086D6 / 1 kg (status: still sealed, not in use)
