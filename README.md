@@ -96,9 +96,10 @@ I’m **@Floris** on [Discord.gg/floris](https://discord.gg/floris). For 3D prin
 **0.0.x**: "_Draft with the intention of 'how the heck am I going to do this GitHub project for 3D printing'_" version.
 
 ### Current Version
-- **Version 0.0.2**, build 013, December 23rd, 2024.
+- **Version 0.0.2**, build 014, December 27rd, 2024.
 
 ### Changelog
+- **0.0.2 build 014**: First print for a friend! (December 27rd, 2024).
 - **0.0.2 build 013**: Updated the list of things I've printed, and future things. (December 23rd, 2024).
 - **0.0.2 build 012**: Moved filament text from one .md file to filaments/readme.md files. (December 23rd, 2024).
 - **0.0.2 build 011**: Updated the accessories that I've bought, and what I've printed. (December 22nd, 2024).

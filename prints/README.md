@@ -177,3 +177,8 @@ https://makerworld.com/en/models/75802#profileId-80382
 41 - Battery organizer boxes
 https://makerworld.com/en/models/893028#profileId-850054
 ```
+
+Added PLA Matte (black) Charcoal
+```
+XX - Print for a friend: xbox and playstation games storage box
+```
