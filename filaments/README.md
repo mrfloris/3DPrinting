@@ -156,12 +156,12 @@ On Cyber Monday I also got the PLA CMYK Lithophane Bundle - Filament with spool 
 
 Still in December, their Winter Sale continues, and I got a bulk-discount for ordering a bunch of PLA Matte (December 2024)
 - PLA Matte - Filament with spool / 1kg / Matte Mandarin Orange (11300) (status: still sealed, not in use)
-- PLA Matte - Filament with spool / 1kg / Matte Charcoal (11101) (status: installed, being used now)
+- PLA Matte - Filament with spool / 1kg / Matte Charcoal (11101) (status: used for prints, left over filament gifted to friend)
 - PLA Matte - Filament with spool / 1kg / Matte Marine Blue (11600) (status: still sealed, not in use)
 - PLA Matte - Filament with spool / 1kg / Matte Ash Grey (11102) (status: being used now)
 - PLA Matte - Refill / 1kg / Matte Dark Red (11202) (status: still sealed, not in use)
 - PLA Matte - Refill / 1kg / Matte Dark Green (11501) (status: still sealed, not in use)
-- PLA Matte - Refill / 1kg / Matte Ivory White (11100) (status: still sealed, not in use)
+- PLA Matte - Refill / 1kg / Matte Ivory White (11100) (status: installed, being used now)
 - PLA Matte - Refill / 1kg / Matte Charcoal (11101) (status: still sealed, not in use)
 
 And finally, after all that PLA, it's time to get a PETG filament (December 2024):
