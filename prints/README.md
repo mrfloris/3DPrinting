@@ -176,9 +176,18 @@ https://makerworld.com/en/models/75802#profileId-80382
 
 41 - Battery organizer boxes
 https://makerworld.com/en/models/893028#profileId-850054
+
+42 - Tapo c110 lcd mount, printed again with ash gray plastic on 0.16 high quality, replacing arctic whisper version I did earlier
+
+43 - Coffee drip tray (inside grid) for the v60, 2 plates, printed with plastic wood dark and grid printed with plastic ash gray
+```
+
+Then switched to Black Walnut PLA Wood
+```
+44 - Coffee drip tray (bottom holder for tray) for the v60, 2 plates, printed with plastic wood dark and grid printed with plastic ash gray
 ```
 
 Added PLA Matte (black) Charcoal
 ```
-XX - Print for a friend: xbox and playstation games storage box
+45 - Print for a friend: xbox and playstation games storage box
 ```
